@@ -1,5 +1,7 @@
 # App1
 
+https://www.agilicus.com/angular-content-security-policy-google-tagmanager/
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.3.
 
 ## Development server
